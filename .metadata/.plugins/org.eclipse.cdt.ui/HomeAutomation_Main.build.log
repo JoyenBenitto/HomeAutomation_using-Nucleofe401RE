@@ -1,0 +1,10 @@
+20:38:44 **** Incremental Build of configuration Debug for project HomeAutomation_Main ****
+make -j16 all 
+arm-none-eabi-size   HomeAutomation_Main.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27260	    124	  20556	  47940	   bb44	HomeAutomation_Main.elf
+Finished building: default.size.stdout
+ 
+
+20:38:44 Build Finished. 0 errors, 0 warnings. (took 503ms)
+
